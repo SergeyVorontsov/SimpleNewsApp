@@ -1,0 +1,56 @@
+{ "results": [
+	{
+        "createdAt": "2015-08-07T11:18:50.249Z",
+        "details": {
+            "__type": "Pointer",
+            "className": "ArticleDetails",
+            "objectId": "opi61Cx5YL"
+        },
+        "imageUrl": "http://ichef-1.bbci.co.uk/news/660/cpsprodpb/3124/production/_85108521_012354334.jpg",
+        "likeCount": 5,
+        "objectId": "F89SGG3S1n",
+        "summary": "Google has been ordered to remove nine links to news stories by the UK's Information Commissioner's Office (ICO) under the \"right to be forgotten\".\nDetails of a \"minor criminal offence\" were referenced in the stories regarding an individual, the ICO said.\nEarlier links about the case had already been removed - but this act of removal itself later became news.",
+        "time": {
+            "__type": "Date",
+            "iso": "2015-08-07T05:57:00.000Z"
+        },
+        "title": "Google ordered to remove news links by UK authority",
+        "updatedAt": "2015-08-21T16:07:53.802Z"
+    },
+	{
+        "createdAt": "2015-08-07T11:19:43.474Z",
+        "details": {
+            "__type": "Pointer",
+            "className": "ArticleDetails",
+            "objectId": "CuTnZRTPO8"
+        },
+        "imageUrl": "http://ichef.bbci.co.uk/news/624/cpsprodpb/71AC/production/_85100192_6cc23985-3ab1-4413-af93-30d9957e666f.jpg",
+        "likeCount": 5,
+        "objectId": "kQtr3oTAM0",
+        "summary": "A lot of data has been released about Ashley Madison but some facts of the breach of the dating website's database remain stubbornly elusive, not least who are the hackers behind the attack?",
+        "time": {
+            "__type": "Date",
+            "iso": "2015-08-02T11:57:00.000Z"
+        },
+        "title": "Ashley Madison: Who are the hackers behind the attack?",
+        "updatedAt": "2015-08-21T16:08:20.595Z"
+    },
+	{
+        "createdAt": "2015-08-07T11:17:29.432Z",
+        "details": {
+            "__type": "Pointer",
+            "className": "ArticleDetails",
+            "objectId": "jpFm0ggq8t"
+        },
+        "imageUrl": "http://ichef-1.bbci.co.uk/news/660/cpsprodpb/30B6/production/_85107421_84262005.jpg",
+        "likeCount": 7,
+        "objectId": "qG87yVUTGh",
+        "summary": "Some high-profile Spotify users say they have left the music service over changes in its terms and conditions.\n\nThe streaming platform now wants access to pictures, contact phone numbers and sensor data stored on the user's smartphone as well as permission to view social media activity.",
+        "time": {
+            "__type": "Date",
+            "iso": "2015-08-06T11:57:00.000Z"
+        },
+        "title": "Spotify's new privacy policy angers users",
+        "updatedAt": "2015-08-21T16:07:23.477Z"
+    }
+] }
