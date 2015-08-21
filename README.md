@@ -1,6 +1,6 @@
 # Simple news
 
-A simple application to demonstrate a few ways to interact iOS app with cloud service [Parse][].
+Simple iOS application to demonstrate a few ways to interact with cloud service [Parse][].
 
 1. Using Parse SDK
 2. Using REST API Parse. (with [Alomofire][] and [SwiftyJSON][])
